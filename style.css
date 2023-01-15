@@ -117,6 +117,32 @@ button{
     padding-left: 850px;
 }
 
+/* Rewards Section */
+.action{
+    padding:80px;
+}
+
+.box{
+    background-color:#3882F6;
+    border-radius: 8px;
+    padding:65px;
+    display: flex;
+}
+
+#action-text h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left:30px;
+}
+
+#rewards button{
+    border:2px solid;
+    border-color: white;
+    border-radius: 8px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px 0 10px 420px;
+}
 /* Footer section*/
 footer{
     background-color: #1F2937;
